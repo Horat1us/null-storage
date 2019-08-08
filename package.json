@@ -1,0 +1,25 @@
+{
+  "name": "null-storage",
+  "version": "1.0.0",
+  "description": "Web Storage API implementation with no store",
+  "main": "null-storage.js",
+  "types": "null-storage.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Horat1us/null-storage.git"
+  },
+  "keywords": [
+    "storage",
+    "null",
+    "placeholder",
+    "web storage",
+    "localstorage",
+    "webstorage"
+  ],
+  "author": "Alexander <horat1us>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Horat1us/null-storage/issues"
+  },
+  "homepage": "https://github.com/Horat1us/null-storage#readme",
+}
